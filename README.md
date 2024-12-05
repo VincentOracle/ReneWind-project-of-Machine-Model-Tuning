@@ -1,1 +1,1 @@
-Rene Wind Project
+ReneWind Project
